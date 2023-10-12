@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // A reference to the gallery container
+    // A reference to the gallery 
     const gallery = document.getElementById("gallery");
   
     // Defining the API URL for cat's images
