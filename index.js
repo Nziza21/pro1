@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const minWidth = parseInt(filterWidthInput.value, 10);
       const minHeight = parseInt(filterHeightInput.value, 10);
   
-      
+      // Filtering cat's images based on width and height
       const filteredCats = catData.filter((cat) => {
         return cat.width >= minWidth && cat.height >= minHeight;
       });
