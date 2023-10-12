@@ -1,4 +1,4 @@
-# pro1
+# Phase 1
 
 This command will start the development server. The application will be accessible at [http://localhost:3000/cats] in your web browser.
 Project Name
