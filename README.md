@@ -1,7 +1,10 @@
 # pro1
 
 This command will start the development server. The application will be accessible at [http://localhost:3000/cats] in your web browser.
-
+Project Name
+Cat's Image Gallery. 
+Names
+NZIZA Samuel.
 Usage
 Cat’s Image Gallery is designed for ease of use. Here’s how to enjoy the application:
 Visit the Application: Open your web browser and go to [http://localhost:3000/cats] if you’re running the app locally.
